@@ -869,3 +869,13 @@ a:focus {
 .services > div {
   flex: 1;
 }
+
+.whatsapp {
+  background-color: #25d366;
+  border-radius: 50%;
+  color: #ffffff !important;
+  padding: 8px;
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+}
